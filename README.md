@@ -147,5 +147,13 @@ It’s a public‑literacy tool.
 
 A way to see heat the way the body and the grid experience it.
 
+Risk State Interpretation (important note)
+
+Risk states are evaluated per day, using that day’s heat strain and current streak conditions.
+
+Cumulative metrics are tracked for visualization and context, but the risk classification reflects operational daily stress, not long-term rarity.
+
+This model treats heat risk as an operational strain problem — defined by daily load, recovery failure, and persistence — rather than as a rare statistical anomaly.
+
 📄 License
 MIT License — free to use, modify, and build on.-
